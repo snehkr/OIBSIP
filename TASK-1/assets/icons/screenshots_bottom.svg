@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1922px" height="156px" viewBox="0 0 1922 156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>screenshots</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="58.5262299%" y1="24.3611729%" x2="58.5262299%" y2="93.67472%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F7F7F7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-Home-Laptop" transform="translate(0.000000, -2805.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1920" height="5117"></rect>
+            <g id="News" transform="translate(-482.000000, 2949.000000)" fill="#2647AE">
+                <path d="M278.589118,686 C432.449639,686 572.16253,600.503597 595.069961,287.015278 C617.977391,-26.4730404 432.449639,-26.4730404 278.589118,26.1308502 C124.728597,78.7347407 0,173.847591 0,356.065425 C0,538.283259 124.728597,686 278.589118,686 Z" id="Oval-4"></path>
+            </g>
+            <g id="screenshots" transform="translate(0.000000, 1732.000000)" fill="url(#linearGradient-1)">
+                <path d="M0,0 L1920,0 L1920,1154.401 C1612.06624,1212.15625 1285.94644,1219.90539 941.640625,1177.64844 C597.334806,1135.39148 283.454597,1125.42301 0,1147.74301 L0,0 Z" id="Mask"></path>
+            </g>
+        </g>
+    </g>
+</svg>

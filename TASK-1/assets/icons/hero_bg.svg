@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1918px" height="1122px" viewBox="0 0 1918 1122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>bg-top</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="88.8584955%" id="linearGradient-1">
+            <stop stop-color="#4070FF" offset="0%"></stop>
+            <stop stop-color="#2E4079" offset="100%"></stop>
+        </linearGradient>
+        <path d="M1920,0 L1920,1095 C882.927256,976.575559 335.843686,914.273539 278.74929,908.09394 C193.107696,898.824541 82.0480596,898.824541 67.7824343,706.903214 L0,190.598986 L0,0 L1920,0 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="88.8584955%" id="linearGradient-4">
+            <stop stop-color="#122358" offset="0%"></stop>
+            <stop stop-color="#233368" offset="100%"></stop>
+        </linearGradient>
+        <path d="M1955,-30 L1955,1065 C917.927256,946.575559 370.843686,884.273539 313.74929,878.09394 C228.107696,868.824541 117.04806,868.824541 102.782434,676.903214 L35,160.598986 L5,-63.7890625 L1955,-30 Z" id="path-5"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-Home-Laptop">
+            <g id="header" transform="translate(-33.000000, 30.000000)">
+                <g id="bg-top">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-1)" transform="translate(960.000000, 547.500000) scale(-1, 1) translate(-960.000000, -547.500000) " xlink:href="#path-2"></use>
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-4)" transform="translate(980.000000, 500.605469) scale(-1, 1) translate(-980.000000, -500.605469) " xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
