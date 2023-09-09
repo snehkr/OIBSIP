@@ -1,26 +1,14 @@
 <h2 align="center"> Oasis Infobyte Internship</br>WEB-DEVELOPMENT-AUG23 </h2>
 
-</br>
+### [+] TASK 2 :
 
-### Ⓜ️ Platform Used :
-
-- Visual Studio Code
-
-</br>
-
-### 📝 TASK 1 :
-
-- A Landing Page [ OTT APP ] With the help of HTML CSS & JS
+- A Portfolio Page With the help of HTML CSS JS
 
 - <a href="https://oasis-internship.netlify.app/task-1/">LIVE DEMO </a>
 
-### 📝 TASK 2 :
+### [+] Platform :
 
-- A Portfolio With the help of HTML CSS & JS
-
-- <a href="https://oasis-internship.netlify.app/task-2/">LIVE DEMO </a>
-
-</br>
+- Visual Studio Code
 
 ### [+] Find me on :
 
@@ -32,4 +20,4 @@
 
 ---
 
-<h5 align="center">© 2023-24 SnehKr.</h5>
+<h5 align='center'>© 2023-24 SnehKr.</h5>
