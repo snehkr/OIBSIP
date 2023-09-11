@@ -4,7 +4,7 @@
 
 - A Portfolio Page With the help of HTML CSS JS
 
-- <a href="https://oasis-internship.netlify.app/task-1/">LIVE DEMO </a>
+- <a href="https://oasis-internship.netlify.app/task-2/">LIVE DEMO </a>
 
 ### [+] Platform :
 
