@@ -1,32 +1,18 @@
 <h2 align="center"> Oasis Infobyte Internship</br>WEB-DEVELOPMENT-AUG23 </h2>
 
-</br>
+### [+] Image :
 
-### Ⓜ️ Platform Used :
+<img src="https://ik.imagekit.io/snehkr/maxresdefault_vj8pvY8mQ.jpg" width="300px">
 
-- Visual Studio Code
+### [+] TASK 3 :
 
-</br>
-
-### 📝 TASK 1 :
-
-- A Landing Page [ OTT APP ] With the help of HTML CSS & JS
-
-- <a href="https://oasis-internship.netlify.app/task-1/">LIVE DEMO </a>
-
-### 📝 TASK 2 :
-
-- A Portfolio With the help of HTML CSS & JS
-
-- <a href="https://oasis-internship.netlify.app/task-2/">LIVE DEMO </a>
-
-### 📝 TASK 3 :
-
-- A Temperature Converter With the help of HTML CSS & JS
+- A Portfolio Page With the help of HTML CSS JS
 
 - <a href="https://oasis-internship.netlify.app/task-3/">LIVE DEMO </a>
 
-</br>
+### [+] Platform :
+
+- Visual Studio Code
 
 ### [+] Find me on :
 
@@ -38,4 +24,4 @@
 
 ---
 
-<h5 align="center">© 2023-24 SnehKr.</h5>
+<h5 align='center'>© 2023-24 SnehKr.</h5>

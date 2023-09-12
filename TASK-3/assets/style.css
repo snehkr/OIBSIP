@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css?family=Sofia");
+
+* {
+  font-family: "Sofia", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 450px;
+  background: #002a3373;
+  border-radius: 8px;
+  box-shadow: 0px 0px 15px 3px rgba(0, 0, 0, 0.718);
+  padding: 20px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+  gap: 10px;
+}
+
+.temp {
+  font-size: 45px;
+  color: #ff0000a6;
+}
+
+h1 {
+  color: #fff;
+  letter-spacing: 1.2px;
+  font-size: 30px;
+}
+
+#celsius,
+#fahrenheit,
+#kelvin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+
+input {
+  flex: 5;
+  height: 60px;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  border: none;
+  outline: none;
+  border-radius: 8px 0 0 8px;
+  padding: 0 10px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+input {
+  -moz-appearance: textfield;
+}
+
+.icon {
+  flex: 1;
+  height: 60px;
+  line-height: 60px;
+  padding: 0 5px;
+  text-align: center;
+  font-size: 30px;
+  background: #ffffff94;
+  color: #fff;
+  border-radius: 0 8px 8px 0;
+}
+
+.button {
+  margin-top: 25px;
+  text-align: right;
+}
+
+.button button {
+  border: none;
+  background: #ffffff3f;
+  outline: none;
+  padding: 10px 30px;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0px 0px 15px 3px rgba(34, 34, 34, 0.718);
+}
+
+.button button:hover {
+  background: #ffffff70;
+  color: #fff;
+}
+
+/* Media queries for responsiveness */
+@media screen and (max-width: 768px) {
+  body {
+    background-size: cover;
+  }
+
+  .container {
+    max-width: 100%;
+  }
+
+  .title h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .temp {
+    font-size: 30px;
+  }
+
+  input {
+    font-size: 16px;
+    height: 40px;
+  }
+
+  .icon {
+    font-size: 24px;
+    height: 40px;
+    line-height: 40px;
+  }
+}
